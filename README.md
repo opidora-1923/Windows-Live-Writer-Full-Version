@@ -236,4 +236,4 @@ This repository serves as the official landing page for Windows Live Writer. The
 **Get the most recent version of Windows Live Writer today!**
 
 ---
-**Last updated:** 2026-10-04 15:43:04 UTC
+**Last updated:** 2026-10-04 19:15:55 UTC
